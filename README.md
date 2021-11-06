@@ -42,8 +42,6 @@ Hidden Markov Model
 
 For more information, please go over two example (HMM_testing and DHMM_testing files).  
 ```
-
-
 ### **License**
 
 This software is released under the MIT liecense.

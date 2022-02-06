@@ -40,6 +40,11 @@ Hidden Markov Model
 
 For more information, please go over two example (HMM_testing and DHMM_testing files).  
 
+For more information, please refer to my Youtube videos:
+
+https://www.youtube.com/watch?v=xyMuhXxv6cc&ab_channel=AIandMLFundamentals
+
+
 ---
 
 ### **License**

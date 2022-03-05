@@ -49,4 +49,4 @@ https://www.youtube.com/watch?v=xyMuhXxv6cc&ab_channel=AIandMLFundamentals
 
 ### **License**
 
-This software is released under the MIT liecense.
+This software is released under the MIT license.
